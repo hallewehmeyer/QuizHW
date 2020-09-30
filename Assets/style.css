@@ -1,0 +1,13 @@
+
+ h1 {
+    font-family: sans-serif
+    text-align: center;
+
+}
+.question {
+    font-family: sans-serif
+    width: 90%;
+    height: auto;
+    margin: auto;
+    border-radius: 5px;
+    text-align: center;
